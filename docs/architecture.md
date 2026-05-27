@@ -34,4 +34,3 @@ It is a local lab artifact for showing:
 - container workflow awareness
 - YAML configuration structure
 - basic runtime/security assumptions
-- documentation of a repeatable technical process
